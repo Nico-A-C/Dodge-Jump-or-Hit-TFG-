@@ -1,5 +1,5 @@
-# Dodge-Jump-or-Hit-TFG-
-Desenvolupant el TFG
+# Unlucky-Slime-TFG-
+
 
 Ja pot descarregar-se la versió definitiva (a la tag de Gold-Master). Cal descarregar el zip, extreure els tres arxius, i obrir l'executable per poder jugar.
 
