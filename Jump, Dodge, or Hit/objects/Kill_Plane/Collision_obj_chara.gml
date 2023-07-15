@@ -1,3 +1,0 @@
-/// @description hmm...
-
-room_goto(nivell_GameOver);
